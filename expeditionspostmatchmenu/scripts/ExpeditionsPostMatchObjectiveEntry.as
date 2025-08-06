@@ -8,7 +8,6 @@ package
    [Embed(source="/_assets/assets.swf", symbol="symbol32")]
    public class ExpeditionsPostMatchObjectiveEntry extends BSScrollingListEntry
    {
-       
       
       public var ObjectiveName_mc:MovieClip;
       
@@ -41,7 +40,7 @@ package
             this.m_isComplete = param1.isComplete;
             this.ObjectiveName_mc.textField_tf.text = param1.objective;
             this.ObjectiveName_mc.textField_tf.text = this.ObjectiveName_mc.textField_tf.text.toUpperCase();
-            this.CheckBox_mc.gotoAndStop(!!param1.isComplete ? "pass" : "fail");
+            this.CheckBox_mc.gotoAndStop(param1.isComplete ? "pass" : "fail");
          }
       }
       
@@ -56,3 +55,4 @@ package
       }
    }
 }
+

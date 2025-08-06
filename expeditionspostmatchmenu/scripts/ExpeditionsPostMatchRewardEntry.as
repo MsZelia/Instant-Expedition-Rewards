@@ -20,7 +20,6 @@ package
       public static const REWARD_TYPE_CAPS:uint = 4;
       
       public static const REWARD_TYPE_LEGENDARY:uint = 5;
-       
       
       public var RewardIcon_mc:MovieClip;
       
@@ -119,3 +118,4 @@ package
       }
    }
 }
+

@@ -5,7 +5,6 @@ package ExpeditionsPostMatchMenu_fla
    [Embed(source="/_assets/assets.swf", symbol="symbol30")]
    public dynamic class ObjectiveXAnimation_25 extends MovieClip
    {
-       
       
       public function ObjectiveXAnimation_25()
       {
@@ -24,3 +23,4 @@ package ExpeditionsPostMatchMenu_fla
       }
    }
 }
+

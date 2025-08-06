@@ -5,7 +5,6 @@ package ExpeditionsPostMatchMenu_fla
    [Embed(source="/_assets/assets.swf", symbol="symbol31")]
    public dynamic class checkBox_mc_17 extends MovieClip
    {
-       
       
       public var Icon_mc:MovieClip;
       
@@ -26,3 +25,4 @@ package ExpeditionsPostMatchMenu_fla
       }
    }
 }
+

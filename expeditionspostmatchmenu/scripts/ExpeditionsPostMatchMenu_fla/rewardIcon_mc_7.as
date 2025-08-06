@@ -5,7 +5,6 @@ package ExpeditionsPostMatchMenu_fla
    [Embed(source="/_assets/assets.swf", symbol="symbol43")]
    public dynamic class rewardIcon_mc_7 extends MovieClip
    {
-       
       
       public function rewardIcon_mc_7()
       {
@@ -49,3 +48,4 @@ package ExpeditionsPostMatchMenu_fla
       }
    }
 }
+

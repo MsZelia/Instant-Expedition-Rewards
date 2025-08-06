@@ -5,7 +5,6 @@ package ExpeditionsPostMatchMenu_fla
    [Embed(source="/_assets/assets.swf", symbol="symbol27")]
    public dynamic class ObjectiveCheckAnimation_18 extends MovieClip
    {
-       
       
       public var GodRays_mc:MovieClip;
       
@@ -31,3 +30,4 @@ package ExpeditionsPostMatchMenu_fla
       }
    }
 }
+

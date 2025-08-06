@@ -26,7 +26,6 @@ package
       private static const REWARD_ANIM_WAIT_MS:uint = 3;
       
       private static const PRIMARY_OBJECTIVE_ANIM_WAIT_MS:uint = 4;
-       
       
       public var Internal_mc:MovieClip;
       
@@ -321,3 +320,4 @@ package
       }
    }
 }
+
